@@ -62,11 +62,8 @@ This prevents post-retrieval hallucinations and improves trustworthiness.
 
 ## 📸 Screenshots (Visual Walkthrough)
 
-> Add screenshots in a `screenshots/` folder and reference them below.  
-> This section greatly improves recruiter and interviewer understanding.
-
 ### 1️⃣ Application Home & Configuration
-![App Home](screenshots/01_app_home.png)
+![App Home](https://github.com/grandline-coder/rag-document-assistant/blob/main/Screenshots/01_app_home.png)
 
 Shows:
 - Embedding backend selection (Local / OpenAI)
@@ -76,7 +73,7 @@ Shows:
 ---
 
 ### 2️⃣ PDF Upload & Chunk Processing
-![PDF Upload](screenshots/02_pdf_upload.png)
+![PDF Upload](https://github.com/grandline-coder/rag-document-assistant/blob/main/Screenshots/02_pdf_upload.png)
 
 Shows:
 - PDF upload via UI
@@ -86,7 +83,7 @@ Shows:
 ---
 
 ### 3️⃣ Semantic Retrieval (FAISS)
-![Retrieval](screenshots/03_retrieval.png)
+![Retrieval](https://github.com/grandline-coder/rag-document-assistant/blob/main/Screenshots/03_retrieval.png)
 
 Shows:
 - Top-K retrieved chunks
@@ -96,7 +93,7 @@ Shows:
 ---
 
 ### 4️⃣ Final Answer with Guardrails
-![Final Answer](screenshots/04_final_answer.png)
+![Final Answer](https://github.com/grandline-coder/rag-document-assistant/blob/main/Screenshots/04_final_answer.png)
 
 Shows:
 - Hallucination-safe answer
@@ -105,7 +102,7 @@ Shows:
 ---
 
 ### 5️⃣ Negative Test (No Hallucination)
-![Negative Test](screenshots/05_negative_test.png)
+![Negative Test](https://github.com/grandline-coder/rag-document-assistant/blob/main/Screenshots/05_negative_test.png)
 
 Shows:
 - Question not present in document
